@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026-07-20-60a948b",
+  "version": "2026-07-20-ab357a7",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
@@ -12,24 +12,24 @@
     },
     {
       "name": "code",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-20-60a948b/code.tar.gz",
-      "sha256": "0b28602a56edb0472d67b35149d0b9bea1955d842c409e831db3122bd58ae06e",
-      "sizeBytes": 3043073,
-      "sourceFingerprint": "222fcacb01fd3f19176867ab675181f6be843282210dd17eb6d2a05f20308841"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-20-ab357a7/code.tar.gz",
+      "sha256": "e0d3b4bc9a76277e8e83396a79d26755e720136b3931074725e37a3530ead0cb",
+      "sizeBytes": 3045877,
+      "sourceFingerprint": "010a5260a2a8e3eb510b1d17b3bb43b3f93a2c819f32a9d69264dec603d9037d"
     },
     {
       "name": "scratch",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-20-c96e8d0/scratch.tar.gz",
-      "sha256": "0ae63d8bf7bc44827db3af04293502fd827d4a3def0d45ca1f154574ddb92e0a",
-      "sizeBytes": 87941244,
-      "sourceFingerprint": "e803a418fe13e09290c7ced73d436d44d5ed175d6de13aaa7b8295019e8e9fa6"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-20-ab357a7/scratch.tar.gz",
+      "sha256": "9842d3cd1792155092b2a4fc9dbf6bec0f329f58f709c585778a8b80911b6fcc",
+      "sizeBytes": 87946486,
+      "sourceFingerprint": "b009b9c6a2ce153c5283848e9447eb1f4e32d7c815595bd195e33b06d36a9bbc"
     },
     {
       "name": "3dview",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-20-c96e8d0/3dview.tar.gz",
-      "sha256": "df0c250b709d3e4ab89e49a410ccded8463ede5070678a3f1647b3fc8a89d9fd",
-      "sizeBytes": 1762080,
-      "sourceFingerprint": "c053c34cdcf80e3bbb3c20cd21fd3f8d35726a7da9fbd116b4d1fc116db098eb"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-20-ab357a7/3dview.tar.gz",
+      "sha256": "683bc46eb6c75cbd1b86b3f1f1c49fd3ef7bb7c3da8bba70078e09caca88adad",
+      "sizeBytes": 1760890,
+      "sourceFingerprint": "222b22f756ba057dd68ced3b43d63795e09d29f8d52a78f5ced751e70a6a01ba"
     },
     {
       "name": "dcraft",
