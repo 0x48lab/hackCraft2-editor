@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026-07-20-ab357a7",
+  "version": "2026-07-21-f39d5c6",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
@@ -58,6 +58,13 @@
       "sha256": "e4c0bb186f62e88654d315f75133a96aba22bd60b7ac5d826ab47f1728a99c18",
       "sizeBytes": 346888913,
       "sourceFingerprint": "7fc575d4db18aebbe8ca902ae0e3b385acef10f8c60dfd357500b47aea76918b"
+    },
+    {
+      "name": "items",
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-21-f39d5c6/items.tar.gz",
+      "sha256": "08197752999e5a29f732c848d32953ff5c56889dc7ebeb6a304843ea9e99e299",
+      "sizeBytes": 1044556,
+      "sourceFingerprint": "b49e732546e732407dfc7ce3a31f3e6aa52e6d38614b20309c8f30cddcbb30de"
     }
   ]
 }
