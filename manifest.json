@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026-07-21-f39d5c6",
+  "version": "2026-07-22-b01aea2",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
@@ -12,10 +12,10 @@
     },
     {
       "name": "code",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-20-ab357a7/code.tar.gz",
-      "sha256": "e0d3b4bc9a76277e8e83396a79d26755e720136b3931074725e37a3530ead0cb",
-      "sizeBytes": 3045877,
-      "sourceFingerprint": "010a5260a2a8e3eb510b1d17b3bb43b3f93a2c819f32a9d69264dec603d9037d"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-22-b01aea2/code.tar.gz",
+      "sha256": "a0fb656883e21cb5c9dfbb1d7e60a852063e6391ddbb9131e5663839f2f09ef2",
+      "sizeBytes": 3043599,
+      "sourceFingerprint": "a70c05276f1b60fde45d571f243a60f7adc44b924ff2a57c81244ec0d9c3f228"
     },
     {
       "name": "scratch",
