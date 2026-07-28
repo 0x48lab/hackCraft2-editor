@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026-07-27-e95bb1b",
+  "version": "2026-07-28-ee5f2e9",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
@@ -12,10 +12,10 @@
     },
     {
       "name": "code",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-27-e95bb1b/code.tar.gz",
-      "sha256": "700ffa5b6945c20715c3fce7c9d943d36c6d4e2d7c79afa58110fd2c3d910a2e",
-      "sizeBytes": 3043715,
-      "sourceFingerprint": "f771731d0c3c0b6422d1e33ef2d33f621a4b0b51ca3506ef8969f0458fe3f390"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-28-ee5f2e9/code.tar.gz",
+      "sha256": "55bae22c3179c19275a1ce411ea1f5abd733f39e96e8c6f20062d5bf75049974",
+      "sizeBytes": 3046949,
+      "sourceFingerprint": "28298a0f942a900d35f6256caf5fb06c734814176ab37ad952e67adbe087b694"
     },
     {
       "name": "scratch",
@@ -54,17 +54,17 @@
     },
     {
       "name": "assets",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-27-6354bcf/assets.tar.gz",
-      "sha256": "a0f777554ce8213f454d4f42c22da90ecb1ea1fba0f3e693a8d11a9e5e306681",
-      "sizeBytes": 104905713,
-      "sourceFingerprint": "fa4d92b597b450e1ae5a38de7b1fe32b539cd8a12e52bb7b15b59c55e4816669"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-28-ee5f2e9/assets.tar.gz",
+      "sha256": "dbbe4f66471aa36d35797ca504c6dbef6d402f529d14e5267a9a035336388787",
+      "sizeBytes": 104897852,
+      "sourceFingerprint": "e4265206c6667c3113488f20037a58d171b0b4d20d4e5c251bc459e8ccd0d996"
     },
     {
       "name": "js",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-27-6354bcf/js.tar.gz",
-      "sha256": "c9d39597bf2ea5c88e014caad742d1ddc164c7b18710acbae2058a9839f56f92",
-      "sizeBytes": 669690,
-      "sourceFingerprint": "d69da16bc350af04e9b8314fcad847babf5c9c55eda639469276faccfe208864"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-28-ee5f2e9/js.tar.gz",
+      "sha256": "47d9d7e776c4979de4d90f8227ef5486252818597aacf43b8fd2730d06b6e14a",
+      "sizeBytes": 671906,
+      "sourceFingerprint": "5321f766e3e9060e35ec26f25d545db0c4f1aa86114fd7fe32439f15e232cf0a"
     },
     {
       "name": "images",
