@@ -1,14 +1,14 @@
 {
   "schema": 2,
-  "version": "2026-08-20-ab74720",
+  "version": "2026-08-20-28ea16d",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
       "name": "minigame-editor",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-20-ab74720/minigame-editor.tar.gz",
-      "sha256": "632e4643b83df0f38b107683dacdbcb72bee66d0e75e1fb4b755dec2baa327cc",
-      "sizeBytes": 3017878,
-      "sourceFingerprint": "e9b386f5c33c8bbcfea02394506be00d6124449b0f5647bfaeaefff149b34317"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-20-28ea16d/minigame-editor.tar.gz",
+      "sha256": "040690c3851284f257ef8b4ccc52b16c4e07cb217779c03df8d4af63a589b4bc",
+      "sizeBytes": 3016666,
+      "sourceFingerprint": "e9487eb1a05782b10b33a1550e440a1e7ad3d0d1efab391875bc9c4f499671f1"
     },
     {
       "name": "code",
