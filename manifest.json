@@ -1,21 +1,21 @@
 {
   "schema": 2,
-  "version": "2026-08-25-112b3a2",
+  "version": "2026-08-25-de1388a",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
       "name": "minigame-editor",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-20-28ea16d/minigame-editor.tar.gz",
-      "sha256": "040690c3851284f257ef8b4ccc52b16c4e07cb217779c03df8d4af63a589b4bc",
-      "sizeBytes": 3016666,
-      "sourceFingerprint": "e9487eb1a05782b10b33a1550e440a1e7ad3d0d1efab391875bc9c4f499671f1"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-25-de1388a/minigame-editor.tar.gz",
+      "sha256": "fc36011f635a39e4de4fc2284ef7441d154817dd886483241df8910cb148896a",
+      "sizeBytes": 3027305,
+      "sourceFingerprint": "c954ff01a464120f0d9c8300988815cf0af8f4bb55e939d66990a479bb13f807"
     },
     {
       "name": "code",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-25-112b3a2/code.tar.gz",
-      "sha256": "9347f966e320b82e261a42cae9d298ad8408d7f54ea228344f139c2870e0c8e2",
-      "sizeBytes": 3055079,
-      "sourceFingerprint": "9fc09b4b81878afbe870fb721a17679eaf3b9e6e3fa87396179650ff1fda2aa4"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-25-de1388a/code.tar.gz",
+      "sha256": "565e965d82e5ae3fe36459a5cce82305631efb3a3a17bf76562622bd0c3c635e",
+      "sizeBytes": 3063244,
+      "sourceFingerprint": "8773bb1e8dbe75bbffd5135024b02f7160ab945aeb899c61f3c16e5164262c14"
     },
     {
       "name": "scratch",
