@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026-08-30-793def2",
+  "version": "2026-08-30-386fff2",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
@@ -12,17 +12,17 @@
     },
     {
       "name": "code",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-25-de1388a/code.tar.gz",
-      "sha256": "565e965d82e5ae3fe36459a5cce82305631efb3a3a17bf76562622bd0c3c635e",
-      "sizeBytes": 3063244,
-      "sourceFingerprint": "8773bb1e8dbe75bbffd5135024b02f7160ab945aeb899c61f3c16e5164262c14"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-30-386fff2/code.tar.gz",
+      "sha256": "49aaf1fe2d2682d3dc3d1d5964a4eff73235bb9e0a054e5dd3345efaee36a35a",
+      "sizeBytes": 3064843,
+      "sourceFingerprint": "c9fba6b5aefd7a7992d77281a121ea9cf760c25577eebeda478f95c980fa932b"
     },
     {
       "name": "scratch",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-20-ab74720/scratch.tar.gz",
-      "sha256": "3e0e8e2ef73e35cbb839449aca6870028dd125a9971c3e757091eddf71277a4f",
-      "sizeBytes": 87955722,
-      "sourceFingerprint": "0890205281f69671a159e0ebabec99651b0d9a38a335df83f991150344da3379"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-30-386fff2/scratch.tar.gz",
+      "sha256": "843d0eaade459f568cabfde55bdbea69288c3a974f5f0b45d5b16b7ba8fe4dfd",
+      "sizeBytes": 87954136,
+      "sourceFingerprint": "af4bb8a94bac91a9d91199bbe590731d6baed71d56ec8d0f444c9283599bcfc4"
     },
     {
       "name": "3dview",
@@ -40,10 +40,10 @@
     },
     {
       "name": "login",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-20-2e9798c/login.tar.gz",
-      "sha256": "7e2893df4ee9b0b1a396ff5ca55b13ac1920b0c16993136e73b23efe9c052436",
-      "sizeBytes": 29544,
-      "sourceFingerprint": "e41ccc0e91c081e1c0c1cebf41b721f819500073160cbc632fd9e02a901043e2"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-30-386fff2/login.tar.gz",
+      "sha256": "cca14255f70cde23bf5413353c829b4094992d11dc388a108bc1d8d744991afb",
+      "sizeBytes": 29511,
+      "sourceFingerprint": "9ccd2a5c563bcc96a582a699d4b304357a283d325dfb3792b6e2b813a9110610"
     },
     {
       "name": "doc",
@@ -54,17 +54,17 @@
     },
     {
       "name": "assets",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-30-793def2/assets.tar.gz",
-      "sha256": "66194c2f684978b60519a1568834c447022266339235be7200e43996683b0134",
-      "sizeBytes": 104907617,
-      "sourceFingerprint": "215e11b342f3ea4e567eda5f9052a69b10c4104889f22d81cf27a06eee4f6449"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-30-386fff2/assets.tar.gz",
+      "sha256": "beadea3ecde0e70e4189a47cdc12fe7ffd97c0e65e86b3ecd740b4161857e959",
+      "sizeBytes": 104906885,
+      "sourceFingerprint": "da5c90c135c823aac5626e7d9e73fe8d129713581b6392021e42d6b116373cb9"
     },
     {
       "name": "js",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-30-793def2/js.tar.gz",
-      "sha256": "4776de2968eaa9050f4ccd2b906c502a63b8818c44711773c73692084de7912c",
-      "sizeBytes": 685720,
-      "sourceFingerprint": "26491c1eea9858f4f7cdc1352b0e22e2dbc0a721f1eeaa1d12087f375806d133"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-30-386fff2/js.tar.gz",
+      "sha256": "e0aa96b31c4d5c857a68fd6e62e846dc733af0563477890d330c5ac948f980d7",
+      "sizeBytes": 686215,
+      "sourceFingerprint": "d938aac19b047290c0e38568bbb542ce7afba7a6d5422ae634faf86b86c8112b"
     },
     {
       "name": "images",
