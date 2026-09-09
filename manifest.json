@@ -1,21 +1,21 @@
 {
   "schema": 2,
-  "version": "2026-09-07-7c748b3",
+  "version": "2026-09-09-a6f419b",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
       "name": "minigame-editor",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-31-906869e/minigame-editor.tar.gz",
-      "sha256": "41d85328a8f89b88b27326d246bb553090674bd41595b1420002177d4decc097",
-      "sizeBytes": 3025900,
-      "sourceFingerprint": "5aa5d1807093065fdaa755ebd7beaa4cf38fc99b81d8ca320ec7da2e7c9940d5"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-09-09-a6f419b/minigame-editor.tar.gz",
+      "sha256": "87cd86bccca04864081f289168970e6bd7b65c5d29bc6cac46626d0f78aca2c3",
+      "sizeBytes": 3027936,
+      "sourceFingerprint": "78f5f63f86caa17d44e138b3e7871e155d57ee98973b0e8c9cf4b0f1be19016f"
     },
     {
       "name": "code",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-08-31-906869e/code.tar.gz",
-      "sha256": "8e17d9a1faf6b3bad1ad986a3a354e697e9b29c129fb1d7e33c72c896ee46161",
-      "sizeBytes": 3066504,
-      "sourceFingerprint": "c2e1ac47445817fef965f13c6e05fd9f1843cdd4d878e941375afe44f21929ac"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-09-09-a6f419b/code.tar.gz",
+      "sha256": "dff7dbf3524adc3bedf907244b3df0829af7648baa8efdf302b5afac39a46832",
+      "sizeBytes": 3068980,
+      "sourceFingerprint": "b4d993231e97792e961d580c7b47a206cb6a1164342fd303b0ff00622f09cfd5"
     },
     {
       "name": "scratch",
@@ -33,10 +33,10 @@
     },
     {
       "name": "dcraft",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-19-37430a6/dcraft.tar.gz",
-      "sha256": "fcaac07a90678022f1a1c6804e36d62bc7a1dcf64033038e6c0bfa2d9df59a90",
-      "sizeBytes": 3169075,
-      "sourceFingerprint": "04afc9167165edb11ed4dc4f024b43a5d31c7f81829df0cb03d2ee5144196555"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-09-09-a6f419b/dcraft.tar.gz",
+      "sha256": "a3ac906a42f0cd29326dfacb3abe49635d7ebd32d425fcd5d8aca8a93fe8d77d",
+      "sizeBytes": 3169160,
+      "sourceFingerprint": "01fc3da1d26265af3adeab5abf3817fda55f8c7969c4618f60682e144a3e718e"
     },
     {
       "name": "login",
