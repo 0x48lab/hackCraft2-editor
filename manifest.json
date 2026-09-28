@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026-09-27-39a7139",
+  "version": "2026-09-28-653baf0",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
@@ -19,10 +19,10 @@
     },
     {
       "name": "scratch",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-09-27-39a7139/scratch.tar.gz",
-      "sha256": "e116dd1431d620f984344a9f97e9bf72bfdcf19effc9f96368fc08edc0070b48",
-      "sizeBytes": 87981307,
-      "sourceFingerprint": "36cc34b32fbab627e44c7fce838e203f92c19e92d34272da879cfd32038fcc41"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-09-28-653baf0/scratch.tar.gz",
+      "sha256": "99751f52527441ee6ce1e679ebb8c2a77ab0fba232cfeb50262c3ae9451be5b7",
+      "sizeBytes": 87982198,
+      "sourceFingerprint": "137dc01c9904416e3982e5f7399dc5fb1d4cb9fcc670aa67da89547a7677c4fb"
     },
     {
       "name": "3dview",
@@ -54,17 +54,17 @@
     },
     {
       "name": "assets",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-09-23-2868556/assets.tar.gz",
-      "sha256": "59375f9c4bcc048eebfd95e0f41365e88b381f9ed0b75deefaa05a706912de63",
-      "sizeBytes": 104911332,
-      "sourceFingerprint": "ba2450ac23b3023e8fabf17e9ca3605a655f13c99cf69525fbec1424c032c691"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-09-28-653baf0/assets.tar.gz",
+      "sha256": "af64b807a319a7d49450180c756739b4ada137b379051d16e654441c85737cb2",
+      "sizeBytes": 104964958,
+      "sourceFingerprint": "b4ad95549b04c779322fb9b49761851de33ec0a01170b606a4a6ff8c9212122f"
     },
     {
       "name": "js",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-09-27-39a7139/js.tar.gz",
-      "sha256": "b3ee187bf4c679df6eafec1d5cf133da94ad6059e355151ebc2a76a7f968c74a",
-      "sizeBytes": 693343,
-      "sourceFingerprint": "5b459d735df09a8a6b3878477faceb1b1c336bf09a8b993c05215645062049eb"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-09-28-653baf0/js.tar.gz",
+      "sha256": "876c0b6acd02a6a9713b47f8f6b7a8abc406e2f548ead1d586952ab766927612",
+      "sizeBytes": 693334,
+      "sourceFingerprint": "72c4bfa152e29547b1cd30690edd6bcfa0f8b5c329c85ec3fd813758640815c2"
     },
     {
       "name": "images",
