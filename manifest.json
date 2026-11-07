@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026-11-05-a00424c",
+  "version": "2026-11-07-52d41a3",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
@@ -33,10 +33,10 @@
     },
     {
       "name": "dcraft",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-10-30-2c85a23/dcraft.tar.gz",
-      "sha256": "1f16d05a7802f9513fbcf9981f34e57e43ad1595acd8aa4237ef0f6949f49f2c",
-      "sizeBytes": 3228703,
-      "sourceFingerprint": "10f3f594789e116457334bd435fcfd9503dba878ef0b2108a0b213563ccecf9c"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-07-52d41a3/dcraft.tar.gz",
+      "sha256": "19579ee7a9041eef3495636a2d8dd52378af37fa2a6af07d7bdeb3069178ab20",
+      "sizeBytes": 3228479,
+      "sourceFingerprint": "574f90200568ca3358b9e20ac0e6494144417833a1da7ed27257f11a7317d2bf"
     },
     {
       "name": "login",
@@ -54,17 +54,17 @@
     },
     {
       "name": "assets",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-05-c7ada49/assets.tar.gz",
-      "sha256": "9dcb2162fedfa4d689b047135f884dd3507bb793ff4edd333e8bc96fc92bc930",
-      "sizeBytes": 104956709,
-      "sourceFingerprint": "1fe99e2aa8bcbbd1286c06c8d3bbe848221b05ffc9a2da8f6acb9026d4a7cc51"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-07-52d41a3/assets.tar.gz",
+      "sha256": "1a1162d4f4735e81242941924a541b3304ab548ed545e50a4cc8ad4a920f957f",
+      "sizeBytes": 104959290,
+      "sourceFingerprint": "89d8211ab659668c8c527921934af06fef329f67d9e1626d1f23594ecc595696"
     },
     {
       "name": "js",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-05-a00424c/js.tar.gz",
-      "sha256": "00313a79bddc46f344a4729f7325d2604530c2344ddaa04603c80c5a2252e4ba",
-      "sizeBytes": 944680,
-      "sourceFingerprint": "d585b4932542a3d87af434a13d2b0509c13d53e8457ef2108f81fa7119257749"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-07-52d41a3/js.tar.gz",
+      "sha256": "30d0ef3c2e1bd37e47f5539ad42010e8981830afd2cd55128e7bfba35b3d2138",
+      "sizeBytes": 953506,
+      "sourceFingerprint": "91c5e76e738bc456e8d7cdb29178cc9dce3825cec556d83897174d2b308c7f54"
     },
     {
       "name": "images",
