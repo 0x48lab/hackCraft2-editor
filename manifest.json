@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026-11-08-844b61f",
+  "version": "2026-11-11-dbbf011",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
@@ -54,24 +54,24 @@
     },
     {
       "name": "assets",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-08-844b61f/assets.tar.gz",
-      "sha256": "b7e4c9c14c1017959eeb44c2dc18616ddbec11bc86fd12db00a0969aa549b615",
-      "sizeBytes": 104966336,
-      "sourceFingerprint": "14725edab15543b518d99ce4659c8a2a041d55346b14693fceb858fb82c4121a"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-11-dbbf011/assets.tar.gz",
+      "sha256": "a1545de885d0865c9c1bac5c04fef8bde6072f0900a59cb142c26802b7d736f6",
+      "sizeBytes": 104964156,
+      "sourceFingerprint": "93be15ff479a68a14c313c318d5f8cda8dae4924fb1cb891589a6134827e1447"
     },
     {
       "name": "js",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-08-844b61f/js.tar.gz",
-      "sha256": "5421ebd592b855f6d7f8a07214da2b6e7c612f0cc160e1a595cac1f4214881d9",
-      "sizeBytes": 954669,
-      "sourceFingerprint": "5c669c04686454e1c9409bb7b2735455a9120e608ce3365d1681dc1b9b74dab0"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-11-dbbf011/js.tar.gz",
+      "sha256": "7efded8d2df1796deec875075add3afabfbb5a809025e2e0401dd8c28b5148c4",
+      "sizeBytes": 955539,
+      "sourceFingerprint": "ea8b3b6d66ca78c3c34d6893066eeb065f7d1e0fca45baa90e8941c7c037e8d1"
     },
     {
       "name": "images",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-07-24-a67662f/images.tar.gz",
-      "sha256": "ab06a3ac05b21b429cc5834e56d8fc6c62bf26862841ef9ce049b3c8da236701",
-      "sizeBytes": 346888577,
-      "sourceFingerprint": "c2ba26144fa8823920de5a95d05607b4d98277d98b742236af12774224c79cfd"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-11-dbbf011/images.tar.gz",
+      "sha256": "8b346e53ea23ae90214b3c22244c0864925591eb7976899bd82ebc6503ced4b0",
+      "sizeBytes": 346888118,
+      "sourceFingerprint": "974cf6c5bee113f77b91856ca87144f0fe1ab30f4c446d7bc32874609c68dbb5"
     },
     {
       "name": "items",
