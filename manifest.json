@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026-11-27-5d61eed",
+  "version": "2026-11-28-5b32b79",
   "minPluginVersion": "1.21.x-R112",
   "parts": [
     {
@@ -19,10 +19,10 @@
     },
     {
       "name": "scratch",
-      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-17-011f06c/scratch.tar.gz",
-      "sha256": "4f46264348917cd097e87ca4dc39fb9132676f707c70773aea313d39d7d32894",
-      "sizeBytes": 88004377,
-      "sourceFingerprint": "ea7358c22239afc4e6ded2cf2eb5e06cb07973127ad496db0886bee3f2c742cd"
+      "url": "https://github.com/0x48lab/hackCraft2-editor/releases/download/web-2026-11-28-5b32b79/scratch.tar.gz",
+      "sha256": "c97a6fc3c2f04afa9cf5844fe8a24cbd8fbf25f76d60f28e87fee77ec2fc863c",
+      "sizeBytes": 88004833,
+      "sourceFingerprint": "da3ef0a68dd84fe99cf9ce96d28f78f3136302b0c09da302806079e80e814caf"
     },
     {
       "name": "3dview",
